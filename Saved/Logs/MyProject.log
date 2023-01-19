@@ -2811,3 +2811,54 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.19-20.53.34:314][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 5.56 sec)
 [2023.01.19-20.53.34:320][463]AssetCheck: New page: Asset Save: BaseLevel
 [2023.01.19-20.53.34:320][463]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDownProject/Maps/BaseLevel.BaseLevel
+[2023.01.19-20.54.04:786][763]LogEditorViewport: Clicking Background
+[2023.01.19-20.54.18:459][  0]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/TopDownProject/Tilemaps/TM_Bed.TM_Bed
+[2023.01.19-20.54.18:459][  0]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/TopDownProject/Tilemaps/TM_Bed.TM_Bed
+[2023.01.19-20.54.18:459][  0]LogActorFactory: Actor Factory spawned PaperTileMap /Game/TopDownProject/Tilemaps/TM_Bed.TM_Bed as actor: PaperTileMapActor /Game/TopDownProject/Maps/BaseLevel.BaseLevel:PersistentLevel.PaperTileMapActor_28
+[2023.01.19-20.54.18:460][  0]LogActorFactory: Actor Factory spawned PaperTileMap /Game/TopDownProject/Tilemaps/TM_Bed.TM_Bed as actor: PaperTileMapActor /Game/TopDownProject/Maps/BaseLevel.BaseLevel:PersistentLevel.PaperTileMapActor_28
+[2023.01.19-20.54.19:154][ 40]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/TopDownProject/Tilemaps/TM_Bed.TM_Bed
+[2023.01.19-20.54.19:154][ 40]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/TopDownProject/Tilemaps/TM_Bed.TM_Bed
+[2023.01.19-20.54.19:156][ 40]LogActorFactory: Actor Factory spawned PaperTileMap /Game/TopDownProject/Tilemaps/TM_Bed.TM_Bed as actor: PaperTileMapActor /Game/TopDownProject/Maps/BaseLevel.BaseLevel:PersistentLevel.PaperTileMapActor_30
+[2023.01.19-20.54.19:156][ 40]LogActorFactory: Actor Factory spawned PaperTileMap /Game/TopDownProject/Tilemaps/TM_Bed.TM_Bed as actor: PaperTileMapActor /Game/TopDownProject/Maps/BaseLevel.BaseLevel:PersistentLevel.PaperTileMapActor_30
+[2023.01.19-20.54.34:931][261]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/TopDownProject/Tilemaps/TM_Crate.TM_Crate
+[2023.01.19-20.54.34:931][261]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/TopDownProject/Tilemaps/TM_Crate.TM_Crate
+[2023.01.19-20.54.34:932][261]LogActorFactory: Actor Factory spawned PaperTileMap /Game/TopDownProject/Tilemaps/TM_Crate.TM_Crate as actor: PaperTileMapActor /Game/TopDownProject/Maps/BaseLevel.BaseLevel:PersistentLevel.PaperTileMapActor_31
+[2023.01.19-20.54.34:932][261]LogActorFactory: Actor Factory spawned PaperTileMap /Game/TopDownProject/Tilemaps/TM_Crate.TM_Crate as actor: PaperTileMapActor /Game/TopDownProject/Maps/BaseLevel.BaseLevel:PersistentLevel.PaperTileMapActor_31
+[2023.01.19-20.54.36:038][319]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/TopDownProject/Tilemaps/TM_Crate.TM_Crate
+[2023.01.19-20.54.36:038][319]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/TopDownProject/Tilemaps/TM_Crate.TM_Crate
+[2023.01.19-20.54.36:039][319]LogActorFactory: Actor Factory spawned PaperTileMap /Game/TopDownProject/Tilemaps/TM_Crate.TM_Crate as actor: PaperTileMapActor /Game/TopDownProject/Maps/BaseLevel.BaseLevel:PersistentLevel.PaperTileMapActor_32
+[2023.01.19-20.54.36:040][319]LogActorFactory: Actor Factory spawned PaperTileMap /Game/TopDownProject/Tilemaps/TM_Crate.TM_Crate as actor: PaperTileMapActor /Game/TopDownProject/Maps/BaseLevel.BaseLevel:PersistentLevel.PaperTileMapActor_32
+[2023.01.19-20.55.18:995][805]Cmd: TRANSACTION UNDO
+[2023.01.19-20.55.18:995][805]LogEditorTransaction: Undo Move Elements
+[2023.01.19-20.55.26:072][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.19-20.55.26:177][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.19-20.55.26:191][264]LogSavePackage: Moving output files for package: /Game/TopDownProject/Maps/BaseLevel
+[2023.01.19-20.55.26:191][264]LogSavePackage: Moving '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Saved/BaseLevel1D26D0FE4277E2363F5656AFEA9E384C.tmp' to '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Content/TopDownProject/Maps/BaseLevel.umap'
+[2023.01.19-20.55.26:208][264]LogFileHelpers: Saving map 'BaseLevel' took 0.056
+[2023.01.19-20.55.26:219][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 5.71 sec)
+[2023.01.19-20.55.26:223][264]AssetCheck: New page: Asset Save: BaseLevel
+[2023.01.19-20.55.26:223][264]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDownProject/Maps/BaseLevel.BaseLevel
+[2023.01.19-20.55.40:809][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.19-20.55.40:918][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.01.19-20.55.40:937][283]LogSavePackage: Moving output files for package: /Game/TopDownProject/Maps/BaseLevel
+[2023.01.19-20.55.40:938][283]LogSavePackage: Moving '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Saved/BaseLevel747C5C8E4A8BDF4A99D4EDA42C787B6F.tmp' to '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Content/TopDownProject/Maps/BaseLevel.umap'
+[2023.01.19-20.55.40:954][283]LogFileHelpers: Saving map 'BaseLevel' took 0.061
+[2023.01.19-20.55.40:965][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 5.86 sec)
+[2023.01.19-20.55.40:971][283]AssetCheck: New page: Asset Save: BaseLevel
+[2023.01.19-20.55.40:972][283]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDownProject/Maps/BaseLevel.BaseLevel
+[2023.01.19-20.56.34:203][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.19-20.56.34:310][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.01.19-20.56.34:329][559]LogSavePackage: Moving output files for package: /Game/TopDownProject/Maps/BaseLevel
+[2023.01.19-20.56.34:329][559]LogSavePackage: Moving '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Saved/BaseLevel0433822647267CA54D686AB16BD6279F.tmp' to '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Content/TopDownProject/Maps/BaseLevel.umap'
+[2023.01.19-20.56.34:343][559]LogFileHelpers: Saving map 'BaseLevel' took 0.058
+[2023.01.19-20.56.34:356][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 6.02 sec)
+[2023.01.19-20.56.34:360][559]AssetCheck: New page: Asset Save: BaseLevel
+[2023.01.19-20.56.34:360][559]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDownProject/Maps/BaseLevel.BaseLevel
+[2023.01.19-20.56.40:514][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.19-20.56.40:626][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.01.19-20.56.40:640][969]LogSavePackage: Moving output files for package: /Game/TopDownProject/Maps/BaseLevel
+[2023.01.19-20.56.40:641][969]LogSavePackage: Moving '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Saved/BaseLevel9DAB54B5479071B3A5AB9A970668FD02.tmp' to '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Content/TopDownProject/Maps/BaseLevel.umap'
+[2023.01.19-20.56.40:654][969]LogFileHelpers: Saving map 'BaseLevel' took 0.051
+[2023.01.19-20.56.40:667][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 6.17 sec)
+[2023.01.19-20.56.40:680][969]AssetCheck: New page: Asset Save: BaseLevel
+[2023.01.19-20.56.40:680][969]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDownProject/Maps/BaseLevel.BaseLevel
