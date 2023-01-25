@@ -2109,3 +2109,45 @@ UnknownFunction []
 [2023.01.25-16.29.48:530][961]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDownProject/Blueprints/BP_GameMode.BP_GameMode
 [2023.01.25-16.29.49:411][  6]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2023.01.25-16.29.49:411][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.25-16.30.14:540][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.01.25-16.30.14:583][409]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDownProject/Maps/BaseLevel_Auto2
+[2023.01.25-16.30.14:583][409]LogSavePackage: Moving '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Saved/BaseLevel_Auto26E9A25274AFC444DA16C7E8FE1A599FE.tmp' to '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Saved/Autosaves/Game/TopDownProject/Maps/BaseLevel_Auto2.umap'
+[2023.01.25-16.30.14:602][409]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownProject/Maps/BaseLevel' took 0.128
+[2023.01.25-16.30.14:602][409]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.128
+[2023.01.25-16.33.35:930][519]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDownProject/Blueprints/Player/WBP_UserInterface.WBP_UserInterface
+[2023.01.25-16.33.35:931][519]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.25-16.33.35:957][519]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.25-16.33.36:437][519]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.25-16.33.36:437][519]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.25-16.33.58:507][231]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.25-16.34.29:086][839]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.25-16.34.44:609][ 89]BlueprintLog: New page: Compile WBP_UserInterface
+[2023.01.25-16.34.44:703][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.01.25-16.34.44:739][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.25-16.34.44:876][ 89]LogSavePackage: Moving output files for package: /Game/TopDownProject/Blueprints/Player/WBP_UserInterface
+[2023.01.25-16.34.44:877][ 89]LogSavePackage: Moving '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Saved/WBP_UserInterface1A4155954C6CF6196ADFA2A9628044FD.tmp' to '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Content/TopDownProject/Blueprints/Player/WBP_UserInterface.uasset'
+[2023.01.25-16.34.44:888][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 2.75 sec)
+[2023.01.25-16.34.44:898][ 89]AssetCheck: New page: Asset Save: WBP_UserInterface
+[2023.01.25-16.34.44:898][ 89]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/TopDownProject/Blueprints/Player/WBP_UserInterface.WBP_UserInterface
+[2023.01.25-16.34.45:489][127]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.01.25-16.34.45:489][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.25-16.34.45:501][127]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.01.25-16.34.45:501][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.25-16.34.46:932][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.25-16.34.47:062][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.01.25-16.34.47:105][215]LogSavePackage: Moving output files for package: /Game/TopDownProject/Maps/BaseLevel
+[2023.01.25-16.34.47:105][215]LogSavePackage: Moving '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Saved/BaseLevel4302284E41111FA58CF1929AA05F8236.tmp' to '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Content/TopDownProject/Maps/BaseLevel.umap'
+[2023.01.25-16.34.47:124][215]LogFileHelpers: No new changes to save!
+[2023.01.25-16.34.47:124][215]LogFileHelpers: Saving map 'BaseLevel' took 0.131
+[2023.01.25-16.34.47:134][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 2.95 sec)
+[2023.01.25-16.34.47:145][215]AssetCheck: New page: Asset Save: BaseLevel
+[2023.01.25-16.34.47:145][215]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDownProject/Maps/BaseLevel.BaseLevel
+[2023.01.25-16.35.17:317][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.25-16.35.17:459][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.01.25-16.35.17:490][468]LogSavePackage: Moving output files for package: /Game/TopDownProject/Maps/BaseLevel
+[2023.01.25-16.35.17:491][468]LogSavePackage: Moving '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Saved/BaseLevel6B021B2C424125977BC3BA9148FE63AD.tmp' to '../../../../../../Users/dbaert/Documents/Unreal Projects/TopDownProject-main/Content/TopDownProject/Maps/BaseLevel.umap'
+[2023.01.25-16.35.17:504][468]LogFileHelpers: No new changes to save!
+[2023.01.25-16.35.17:504][468]LogFileHelpers: Saving map 'BaseLevel' took 0.112
+[2023.01.25-16.35.17:513][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 3.15 sec)
+[2023.01.25-16.35.17:522][468]AssetCheck: New page: Asset Save: BaseLevel
+[2023.01.25-16.35.17:522][468]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDownProject/Maps/BaseLevel.BaseLevel
